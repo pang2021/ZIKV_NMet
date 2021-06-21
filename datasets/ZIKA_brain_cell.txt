@@ -1,0 +1,287 @@
+cell_type	marker
+Astrocyte	Aldh1l1
+Astrocyte	Camsap1
+Astrocyte	ACSA-2
+Astrocyte	Atp1b2
+Astrocyte	Vimentin
+Astrocyte	Glialfibrillaryacidicprotein
+Astrocyte	HtrA1
+Astrocyte	Neuron-specificenolase
+Astrocyte	PDPN
+Astrocyte	GFAP
+Astrocyte	S100beta
+Astrocyte	Acsl3
+Astrocyte	Acsl6
+Astrocyte	Agt
+Astrocyte	Aqp4
+Astrocyte	Atp13a4
+Astrocyte	Atp1b2
+Astrocyte	Bcan
+Astrocyte	Cldn10
+Astrocyte	Dclk1
+Astrocyte	Ddhd1
+Astrocyte	Ednrb
+Astrocyte	Entpd2
+Astrocyte	Eva1a
+Astrocyte	Fgfr3
+Astrocyte	Fjx1
+Astrocyte	Fut9
+Astrocyte	Fzd2
+Astrocyte	Gja1
+Astrocyte	Gjb6
+Astrocyte	Gm3764
+Astrocyte	Gm9925
+Astrocyte	Gpld1
+Astrocyte	Gpr37l1
+Astrocyte	Gria2
+Astrocyte	Htra1
+Astrocyte	Id4
+Astrocyte	Lfng
+Astrocyte	Mfge8
+Astrocyte	Nkain4
+Astrocyte	Ntsr2
+Astrocyte	Paqr7
+Astrocyte	Pla2g7
+Astrocyte	Plcd4
+Astrocyte	Ptplb
+Astrocyte	S1pr1
+Astrocyte	Sc4mol
+Astrocyte	Sdc4
+Astrocyte	Sfrs18
+Astrocyte	Slc27a1
+Astrocyte	Slc39a12
+Astrocyte	Slc4a4
+Astrocyte	Slc6a1
+Astrocyte	Slc6a11
+Astrocyte	Slc7a10
+Astrocyte	Slc7a11
+Astrocyte	Sox9
+Astrocyte	Tlcd1
+Astrocyte	Tril
+Astrocyte	Trim9
+Astrocyte	Vegfa
+Microglial cell	Iba1
+Microglial cell	CD11b
+Microglial cell	Dock2
+Microglial cell	Ionizedcalcium-bindingadaptermolecule1
+Microglial cell	Aif1
+Microglial cell	CD68
+Microglial cell	Cx3cr1
+Microglial cell	Itgam
+Microglial cell	Lpcat3
+Microglial cell	Lrp8
+Microglial cell	Mcoln3
+Microglial cell	Mfsd10
+Microglial cell	Pap2c
+Microglial cell	Slc30a5
+Microglial cell	Slco4a1
+Microglial cell	Stab1
+Microglial cell	0610040J01Rik
+Microglial cell	1700112E06Rik
+Microglial cell	Abca9
+Microglial cell	Adap2
+Microglial cell	Apbb1ip
+Microglial cell	Arsb
+Microglial cell	Bmp2k
+Microglial cell	Ccr5
+Microglial cell	Csf1r
+Microglial cell	Ctsb
+Microglial cell	Cx3cr1
+Microglial cell	Cyth4
+Microglial cell	Dock2
+Microglial cell	Dock8
+Microglial cell	Emr1
+Microglial cell	Entpd1
+Microglial cell	Fcrls
+Microglial cell	Fli1
+Microglial cell	Fyb
+Microglial cell	Hexb
+Microglial cell	Hpgds
+Microglial cell	Ikzf1
+Microglial cell	Inpp5d
+Microglial cell	Itgam
+Microglial cell	Itgb5
+Microglial cell	Lcp2
+Microglial cell	Lgmn
+Microglial cell	Lpcat2
+Microglial cell	Ly86
+Microglial cell	Lyn
+Microglial cell	Mertk
+Microglial cell	Myo1f
+Microglial cell	Nckap1l
+Microglial cell	P2ry12
+Microglial cell	Pik3ap1
+Microglial cell	Pros1
+Microglial cell	Ptprc
+Microglial cell	Rasgrp3
+Microglial cell	Rreb1
+Microglial cell	Runx1
+Microglial cell	Serinc3
+Microglial cell	Siglech
+Microglial cell	Sirpa
+Microglial cell	Skap2
+Microglial cell	Slco2b1
+Microglial cell	Tbxas1
+Microglial cell	Tgfbr1
+Microglial cell	Tgfbr2
+Microglial cell	Vav1
+Microglial cell	Zfp710
+Microglial cell	4632428N05Rik
+Microglial cell	Abi3
+Microglial cell	AF251705
+Microglial cell	Aif1
+Microglial cell	C1qa
+Microglial cell	C1qb
+Microglial cell	C1qc
+Microglial cell	Ccr5
+Microglial cell	Cd14
+Microglial cell	Cd37
+Microglial cell	Cd53
+Microglial cell	Cd68
+Microglial cell	Csf1r
+Microglial cell	Ctss
+Microglial cell	Cx3cr1
+Microglial cell	Cyth4
+Microglial cell	Fcer1g
+Microglial cell	Fcgr3
+Microglial cell	Fcrls
+Microglial cell	Gpr34
+Microglial cell	Hexb
+Microglial cell	Hmha1
+Microglial cell	Hpgd
+Microglial cell	Hpgds
+Microglial cell	Il6ra
+Microglial cell	Inpp5d
+Microglial cell	Irf8
+Microglial cell	Itgam
+Microglial cell	Lair1
+Microglial cell	Laptm5
+Microglial cell	Lpcat2
+Microglial cell	Ltc4s
+Microglial cell	Ly86
+Microglial cell	Mafb
+Microglial cell	Mpeg1
+Microglial cell	Ncf1
+Microglial cell	Olfml3
+Microglial cell	P2ry12
+Microglial cell	P2ry13
+Microglial cell	Pld4
+Microglial cell	Ptgs1
+Microglial cell	Rnase4
+Microglial cell	Selplg
+Microglial cell	Siglech
+Microglial cell	Slco2b1
+Microglial cell	Tgfbr1
+Microglial cell	Tmem119
+Microglial cell	Trem2
+Microglial cell	Tyrobp
+Microglial cell	Unc93b1
+Microglial cell	C1qa
+Microglial cell	C1qb
+Microglial cell	C1qc
+Microglial cell	Ctss
+Microglial cell	Cx3cr1
+Neural stem cell	ACSA-2
+Neural stem cell	Calcyclin
+Neural stem cell	GD3
+Neural stem cell	JAM-C
+Neural stem cell	Sox2
+Neural stem cell	CD133
+Neural stem cell	Prominin-1
+Neural stem cell	CD133
+Neural stem cell	EGFR
+Neural stem cell	Prom1
+Neural stem cell	GLAST
+Neural stem cell	Prominin-1
+Neural stem cell	Nestin
+Neural stem cell	Sox2
+Neural stem cell	Apoe
+Neural stem cell	Blbp
+Neural stem cell	Gfap
+Neural stem cell	Slc1a3
+Neural stem cell	Sox2
+Neural stem cell	Sox9
+Neural stem cell	Thrsp
+Neuroblast	DCX
+Neuroblast	PSA-NCAM
+Neuroblast	Btg1
+Neuroblast	Celf4
+Neuroblast	Dcx
+Neuroblast	Meis2
+Neuroblast	Stmn2
+Neuroblast	Ccnd2
+Neuroblast	Crmp1
+Neuroblast	Dbn1
+Neuroblast	Dchs1
+Neuroblast	Dlx1
+Neuroblast	Dlx2
+Neuroblast	Dlx5
+Neuroblast	Dlx6
+Neuroblast	Evf1
+Neuroblast	Foxc1
+Neuroblast	Fxyd6
+Neuroblast	Klf5a
+Neuroblast	Olfm1
+Neuroblast	Pfn2
+Neuroblast	Pou3f3
+Neuroblast	Sox5
+Neuroblast	Trn1
+Neuron	6330403K07Rik
+Neuron	A030009H04Rik
+Neuron	Agap2
+Neuron	Ahi1
+Neuron	Arf3
+Neuron	Atp1a3
+Neuron	Atp1b1
+Neuron	Bex2
+Neuron	Camk2a
+Neuron	Camk2b
+Neuron	Camk2n1
+Neuron	Celf4
+Neuron	Chd3
+Neuron	Cnih2
+Neuron	Cplx2
+Neuron	Ctxn1
+Neuron	Dynll2
+Neuron	Fbxl16
+Neuron	Gap43
+Neuron	Gng13
+Neuron	Hap1
+Neuron	Hpcal4
+Neuron	Kif5a
+Neuron	Kif5c
+Neuron	Ly6h
+Neuron	Map1a
+Neuron	Map1b
+Neuron	Map2
+Neuron	Myt1l
+Neuron	Ncdn
+Neuron	Nefl
+Neuron	Nrgn
+Neuron	Nrsn1
+Neuron	Pcp4
+Neuron	Pcsk1n
+Neuron	Rab3c
+Neuron	Rasgef1a
+Neuron	Rph3a
+Neuron	Rtn1
+Neuron	S100b
+Neuron	Scg2
+Neuron	Sepw1
+Neuron	Sez6
+Neuron	Snap25
+Neuron	Snrpn
+Neuron	Stmn2
+Neuron	Stmn3
+Neuron	Syt1
+Neuron	Ttc3
+Neuron	Unc13c
+Neuron	NeuN
+Neuron	MAP2
+Neuron	Meg3
+Neuron	Neuron-specificenolase
+Neuron	GFAP
+Neuron	Iba1
+Neuron	MAP2
+Neuron	NF
+Neuron	Nestin
